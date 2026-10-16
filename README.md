@@ -1,0 +1,82 @@
+# Airbnb Data Analysis Project
+
+Welcome to the Airbnb Analysis project! This project focuses on analyzing Airbnb data to gain valuable insights into pricing variations, availability patterns, and location-based trends in the travel and property management domain. We Python scripting, Google Colab, and data preprocessing for data visualization to explore the data.
+
+## Project Objectives
+
+The primary objectives of this project are as follows:
+
+1. **Data Retrieval:** Establish the data my extracting it from the Airbnb_Open_Data.csv file.
+
+2. **Data Cleaning and Preparation:** Clean and prepare the dataset by addressing issues like missing values, duplicates, and data type conversions for accurate analysis.
+
+3. **Price Analysis and Visualization:** Analyze and visualize pricing variations based on location and property type using Pandas, Seaborn, and Matplotlib.
+
+4. **Availability Analysis:** Investigate availability patterns and occupancy rates and visualize demand fluctuations.
+
+5. **Location-Based Insights:** Extract and visualize data for specific regions or neighborhoods, enabling users to understand location-based trends.
+
+## Skills Developed
+
+Through this project, you will enhance your skills in the following areas:
+
+- Proficiency in Excel.
+- Python data analysis using Pandas and NumPy.
+- Data visualization Seaborn and Matplotlib
+- Problem-solving skills for data analysis.
+
+## Project Evaluation Metrics
+
+We aim to maintain high-quality code and documentation for this project. The evaluation criteria include:
+
+- Code modularity and maintainability.
+- Code portability across different environments.
+- A public GitHub repository for version control and collaboration.
+- A comprehensive README file explaining the project workflow.
+- Adherence to Python coding standards (PEP 8).
+
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone or fork this repository to your local machine.
+
+2. Refer to the installation instructions in the [Installation](#installation) section to set up the required dependencies.
+
+3. Explore the codebase and dive into the project by following the project workflow described in the [Project Workflow](#project-workflow) section.
+
+## Installation
+
+To run this project, you'll need the following dependencies:
+
+- Python (version 3.6 or higher)
+- Airbnb_Open_Data.csv
+- Google Colab
+
+## Project Workflow
+
+Note: This project is developed for educational purposes and to showcase data analysis and visualization skills. The Airbnb data used is sample data, and all analyses and visualizations are based on this sample data.
+
+The project workflow is structured into the following key steps:
+
+**Data Retrieval:** The csv file can be found at this link: https://www.geeksforgeeks.org/machine-learning/airbnb-booking-analysis-using-eda/ and can be added to the content folder of the new project in Google Colab.
+
+**Data Cleaning and Preparation:** Clean and prepare the dataset, addressing issues like missing values, duplicates, and data type conversions for accurate analysis.
+
+**Price Analysis and Visualization:** Analyze and visualize pricing variations based on location and property type using Seaborn and Matplotlib.
+
+**Availability Analysis:** Investigate availability patterns and occupancy rates and visualize demand fluctuations using Seaborn and Matplotlib.
+
+**Location-Based Insights:** Extract and visualize data for specific regions or neighborhoods, enabling users to understand location-based trends with Seaborn and Matplotlib.
+
+## Contributing
+Contributions and feedback are welcome! If you'd like to contribute to this project, please follow our Contributing Guidelines.
+
+## Project Author,
+Brandon Mercado Franco
+Aspiring Data Scientist
+
+
+
+**LinkedIn Profile:** [Brandon Mercado Franco](https://www.linkedin.com/in/mercadofrancobrandon/)
